@@ -1,3 +1,5 @@
+## Pedro Guilherme Campos; RGM: 38974223; UP Osório Segunda-Feira/Noturno
+
 # Projeto de Clusterização: Análise de Insuficiência Cardíaca
 
 Este projeto de Data Science utiliza o algoritmo de clusterização **K-Means** para identificar perfis de pacientes a partir do dataset "Heart Failure Clinical Records".
